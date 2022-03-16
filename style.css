@@ -59,6 +59,14 @@ body {
 }
 
 
+
+@media (min-width: 585px){
+    .container {
+        display: flex;
+        text-align: start;
+        display: flex;
+      }
+}
 @media (min-width: 768px) {
   .container {
     text-align: start;
